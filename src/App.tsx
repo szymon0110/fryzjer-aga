@@ -145,7 +145,7 @@ function HeroSection() {
       {/* Background image */}
       <div className="absolute inset-0">
         <img
-          src="/outsidephoto.jpg"
+          src="outsidephoto.jpg"
           alt="Salon fryzjerski Fryzjer AGA – widok z zewnątrz, szyld z czerwonym napisem na ulicy Przyjaciół Żołnierza w Szczecinie"
           className="w-full h-full object-cover blur-sm scale-105"
         />
@@ -221,7 +221,7 @@ function AboutSection() {
           {/* Inside photo – large */}
           <div className="group relative rounded-2xl overflow-hidden shadow-xl">
             <img
-              src="/insidephoto.jpg"
+              src="insidephoto.jpg"
               alt="Wnętrze salonu Fryzjer AGA – profesjonalne stanowiska fryzjerskie z czarnymi fotelami i białymi ścianami"
               className="w-full h-72 sm:h-96 object-cover transition-transform duration-700 group-hover:scale-105"
             />
@@ -236,7 +236,7 @@ function AboutSection() {
           {/* Wall photo */}
           <div className="group relative rounded-2xl overflow-hidden shadow-xl">
             <img
-              src="/wallphoto.jpg"
+              src="wallphoto.jpg"
               alt="Artystyczne portrety na ścianie salonu Fryzjer AGA – elegancka dekoracja podkreślająca klimat miejsca"
               className="w-full h-72 sm:h-96 object-cover transition-transform duration-700 group-hover:scale-105"
             />
@@ -315,7 +315,7 @@ function ProductsSection() {
           {/* Image */}
           <div className="group relative rounded-2xl overflow-hidden shadow-xl order-2 lg:order-1">
             <img
-              src="/cornerphoto.jpg"
+              src="cornerphoto.jpg"
               alt="Ekspozycja perfum Yodeyma Paris w salonie Fryzjer AGA – ekskluzywne zapachy dostępne na miejscu"
               className="w-full h-80 sm:h-96 object-cover transition-transform duration-700 group-hover:scale-105"
             />
